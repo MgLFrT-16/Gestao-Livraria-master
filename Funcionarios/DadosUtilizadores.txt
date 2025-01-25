@@ -1,0 +1,6 @@
+kayro,123,Gerente
+jose,scp1906,Caixa
+joao,slb1904,Repositor
+miguel,321,Gerente
+tiago,fcp1893,Gerente
+Mauro,Mauro1234,Repositor

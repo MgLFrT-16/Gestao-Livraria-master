@@ -1,0 +1,4 @@
+﻿22/01/2024 14:18:10: Caixa jose diz para Gerente - Boa tarde!
+22/01/2024 14:18:25: Caixa jose diz para Gerente - Para quando é o limite de entrega?
+22/01/2024 14:37:11: Gerente kayro diz para Caixa - Boa tarde
+22/01/2024 14:37:11: Gerente kayro diz para Caixa - Amanhã até às 19:00h22/01/2024 17:54:49: Caixa jose diz para Gerente - Obrigado!

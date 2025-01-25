@@ -1,0 +1,12 @@
+1|Harry Potter e o Prisioneiro de Azkaban|J.K. Rowling|9789722371124|Fantasia|39,9|9,18|15
+2|The Witcher: O último Desejo|Andrzej Sapkowski|9788546902811|Fantasia|28,9|6,65|29
+3|Verity|Colleen Hoover|9789896687403|Romance|19,95|4,59|9
+4|Isto Acaba Aqui|Colleen Hoover|9781501110368|Romance|17,9|4,12|8
+5|Os Inovadores|Walter Isaacson|9789720048066|Biografia|15,2|3,5|4
+6|Introdução de Engenharia de Software|Sérgio Guerreiro|9789727227952|Tecnologia|22,2|5,11|3
+7|O Que Faz o ChatGPT e Como Funciona|Stephen Wolfram|9789896618315|Tecnologia|13,9|3,2|5
+8|Os Lusíadas|Luís de Camões|9789720049568|Epopeia|8,95|2,06|38
+9|O Segredo da Receita|Marco Costa|9789896618650|Gastronomia|18,9|4,35|4
+10|A Guerra Russo-Ucraniana|Serhii Plokhy|9789722372121|História|21,9|5,04|7
+11|Como fazer um teste|testevzero|123456781213|Ensino|9|2,07|0
+12|Cristiano Ronaldo - A Perfeição é o Limite|Luca Caioli|9789722348423|Desporto|15,04|3,46|4

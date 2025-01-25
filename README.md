@@ -1,5 +1,5 @@
 # Gestão de Livraria
 
-Trabalho prático de grupo para a disciplina de Linguagens de Programação I
+Trabalho de grupo desenvolvido para a disciplina Linguagens de Programação I
 
 (1º semestre - Curso Superior de Desenvolvimento Web e Multimédia)
